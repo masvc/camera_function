@@ -1,0 +1,20 @@
+# アップロードされた画像
+uploads/*
+!uploads/.gitkeep
+
+# エディタ関連
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# PHPの設定ファイル
+php.ini
+.env
+
+# ログファイル
+*.log 
